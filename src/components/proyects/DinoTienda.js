@@ -29,7 +29,7 @@ export default function DinoTienda() {
               <a href="https://github.com/angel210819/Rick-y-Morty-" className="px-4 pt-3 text-gray-400">
                 <FaGithub className="text-3xl hover:text-orange-400"/>
               </a>
-              <a href="https://github.com/angel210819/Rick-y-Morty-" className="px-4 pt-3 text-gray-400">
+              <a href="https://tienda-dino-mascotas.vercel.app/" className="px-4 pt-3 text-gray-400">
                 <FaSignOutAlt className="text-3xl hover:text-orange-400"/>
               </a>
               </div>
