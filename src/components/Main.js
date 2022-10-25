@@ -1,3 +1,5 @@
+import pdf from "../images/curriculum vitae CV trabajo.pdf"
+
 const Main = () => {
   return (
     <section
@@ -24,6 +26,10 @@ const Main = () => {
             <button className="px-5 py-1 font-mono text-lg font-semibold text-purple-500 border-2 border-purple-600 rounded-md w-max xl:px-8 xl:py-2 active:translate-y-2 active:bg-modelo-200 active:duration-200 active:transition-all">
               <a href="https://www.linkedin.com/in/angel-mirko-juarez-166776224/"> contáctame </a>
             </button>
+            <button className="px-5 py-1 mt-3 overflow-x-hidden font-mono text-lg font-semibold text-purple-500 border-2 border-purple-600 rounded-md sm:ml-4 w-max xl:px-8 xl:py-2 active:translate-y-2 active:bg-modelo-200 active:duration-200 active:transition-all">
+            <a href={pdf} rel="noopener noreferrer" download="curriculum vitae"> descargar mi cv  </a>
+            </button>
+            
           </div>
         </div>
       </div>
