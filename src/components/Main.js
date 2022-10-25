@@ -13,7 +13,7 @@ const Main = () => {
           </h2>
           <div>
             <div className="containerTransition">
-              <span className='text-2xl text-white efecto-nombre'> y soy junior Frontend developer </span>
+              <span className='text-2xl text-white efecto-nombre'> y soy Junior Fullstack Developer </span>
             </div>
           </div>
           <div>
